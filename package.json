@@ -1,5 +1,5 @@
 {                                                                               
-  "name": "mod_test",                                                          
+  "name": "mod_shortcuts",                                                          
   "version": "0.1.0",                                                           
   "main": "./index.js",                                                         
   "dependencies": {                                                             
